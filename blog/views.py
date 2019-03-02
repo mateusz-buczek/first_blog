@@ -1,5 +1,4 @@
-from django.http import HttpResponse
-
+from django.shortcuts import render
 
 def blog_index(request):
-    return HttpResponse("This is main blog page.")
+    return render(request, 'blog/blog_index.html', {})
