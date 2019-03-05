@@ -4,7 +4,7 @@ My second choice for Django training was to biuld a simple blog app. I tried to 
 So far blog allows reading, adding and editing posts (deleting available from admin panel). Planned functionalities: deleting/removing posts, adding comments, managing comments. 
 The visual aspect is quite barbaric, however it's supposed to work, not to be miss universe ;) 
 
-#Technologies 
+# Technologies 
 Python 3.7.2
 Django 2.1.7 
 SQLite (Django's default DB)
@@ -12,7 +12,7 @@ HTML
 CSS 
 Bootstrap 3.2.0 (bootstrapcdn.com) 
 
-#Setup 
+# Setup 
 Copy this repository to your HDD or choose corresponding option in your IDE (PyCharm recommended). 
 Install Django: 
 $ pip install django 
