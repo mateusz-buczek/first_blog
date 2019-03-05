@@ -1,6 +1,6 @@
 # first_blog
 # General info
-My second choice for Django training was to biuld a simple blog app. I tried to work as much as possible with Django documentation, altough tutorial from djangogirls.com was very helpful in creating stable skeleton. Therefore I'm obliged to give credit and license this work under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+My second choice for Django training was to biuld a simple blog app. 
 So far blog allows reading, adding and editing posts (deleting available from admin panel). Planned functionalities: deleting/removing posts, adding comments, managing comments. 
 The visual aspect is quite barbaric, however it's supposed to work, not to be miss universe ;) 
 
@@ -62,3 +62,5 @@ You can add, delete and edit posts from admin panel, however i encourage you to 
 ```
 Feel free to send feedback :) 
 
+# Sources/Inspirations 
+I tried to work as much as possible with Django documentation, altough tutorial from djangogirls.com was very helpful in creating stable skeleton, comparing my own work and finding bugs. Therefore I'm obliged to give credit and license this work under the Creative Commons Attribution-ShareAlike 4.0 International License. 
