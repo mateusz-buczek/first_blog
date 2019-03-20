@@ -1,7 +1,7 @@
 .page-header {
     background-color: #0177AA;
-    margin-top: 30px;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
     padding: 3%;
     padding-left: 2%;
 }
@@ -38,9 +38,8 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ECCB00;
     float: left;
-    font-size: 30px;
-    margin-left: 30px;
-    margin-bottom: 30px;
+    font-size: 14px;
+
 }
 
 .post {
@@ -49,4 +48,8 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #010227;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
