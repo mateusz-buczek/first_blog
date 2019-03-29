@@ -12,6 +12,19 @@ The visual aspect is quite barbaric, however it's supposed to work, not to be mi
 * CSS 
 * Bootstrap 3.2.0 (bootstrapcdn.com) 
 
+# Looks 
+Main page: 
+
+![Main](./images/main.jpg)
+
+Post details (with comments): 
+
+![details](./images/post_details.jpg)
+
+Adding comments: 
+
+![commenting](./images/add_comment.jpg)
+
 # Setup 
 Copy this repository to your HDD or choose corresponding option in your IDE (PyCharm recommended). 
 Install Django: 
