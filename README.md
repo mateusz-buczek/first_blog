@@ -1,7 +1,7 @@
 # first_blog
 # General info
 My second choice for Django training was to biuld a simple blog app. 
-So far blog allows reading, adding, deleting and editing posts. Logging in and out. Planned functionalities: adding comments, managing comments. 
+So far blog allows reading, adding, deleting and editing posts. Logging in and out. Comments (reading, adding, deleting, approving). 
 The visual aspect is quite barbaric, however it's supposed to work, not to be miss universe ;) 
 
 # Technologies 
