@@ -33,7 +33,7 @@ $ pip install django
 ```
 Pycharm should create venv for you. If not, choose default Python based one when asked. 
 If you're impatient type: 
-```
+``` 
 $ cd mysite
 ```
 and then (when in folder mysite): 
