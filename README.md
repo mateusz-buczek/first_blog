@@ -1,4 +1,4 @@
-# first_blog
+# first_blog 
 # General info
 My second choice for Django training was to biuld a simple blog app. 
 So far blog allows reading, adding, deleting and editing posts. Logging in and out. Comments (reading, adding, deleting, approving). 
